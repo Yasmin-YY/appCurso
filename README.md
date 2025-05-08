@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# flutter_application_1
+# Aplicativo de curso no flutter
 
 A new Flutter project.
 
