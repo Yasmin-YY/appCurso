@@ -6,16 +6,12 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: ^3.7.2
-
-
-
+  sdk: ">=3.7.2 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-
-
+  google_fonts: ^6.1.0
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
@@ -23,33 +19,23 @@ dev_dependencies:
     sdk: flutter
   flutter_native_splash: ^2.3.0
   lottie: ^2.2.0 
-
- 
   flutter_lints: ^5.0.0
 
-
 flutter:
- assets:
+  assets:
     - assets/images/logoanimacaoo.json
     - assets/images/animacao1.json
     - assets/images/animacao3.json
-    - assets/images/animacao3.json
+    - assets/images/animacao2.json
 
-  
-uses-material-design: true
+  uses-material-design: true
 
 flutter_native_splash:
- color: "#ffffff"
- image: assets/images/logo.png
- branding: assets/images/branding.png
- android: true
- ios: true
- web: true
- fullscreen: true
- android_gravity: center
-
-
- 
-
-
-  
+  color: "#ffffff"
+  image: assets/images/logo.png
+  branding: assets/images/branding.png
+  android: true
+  ios: true
+  web: true
+  fullscreen: true
+  android_gravity: center

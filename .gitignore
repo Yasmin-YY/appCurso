@@ -11,6 +11,16 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+# Ignorar arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
+*.log
+.gradle/
+.android/
+.vscode/
+*.iml
+.idea/
+
 
 # IntelliJ related
 *.iml
