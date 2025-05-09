@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Academia Digital
 
 Digital Academy é um aplicativo Flutter focado em educação tecnológica. Ele oferece uma jornada de boas-vindas moderna e interativa para novos usuários, com animações suaves, processo de introdução informativo e transições de tela perfeitas.
@@ -11,11 +11,3 @@ Onboarding Interativo: Série de telas com imagens e textos explicativos sobre a
 Página de Boas-vindas: Transição final para uma tela animada que prepara o usuário para explorar o aplicativo
 Design Responsivo: Compatível com múltiplas resoluções de tela
 
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# appCurso
-Repositório feito para aplicativo de curso usando flutter
->>>>>>> b3bfbb8d06089deed2dd1af483476cd1babdad2a
