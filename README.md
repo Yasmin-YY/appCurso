@@ -13,5 +13,7 @@ Design Responsivo: Compatível com múltiplas resoluções de tela
 
 ## Telas
 ![Screenshot do app](https://github.com/JuniorSfredo/course-plataform-ui/raw/main/assets/screens/img.png)
+![Screenshot do app](https://github.com/JuniorSfredo/course-plataform-ui/raw/main/assets/screens/img_1.png)
+![Screenshot do app](https://github.com/JuniorSfredo/course-plataform-ui/raw/main/assets/screens/img_2.png)
 
 
