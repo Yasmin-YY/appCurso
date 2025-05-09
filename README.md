@@ -11,6 +11,6 @@ Onboarding Interativo: Série de telas com imagens e textos explicativos sobre a
 Página de Boas-vindas: Transição final para uma tela animada que prepara o usuário para explorar o aplicativo
 Design Responsivo: Compatível com múltiplas resoluções de tela
 
-## Telas
-https://github.com/JuniorSfredo/course-plataform-ui/raw/main/assets/screens/img.png
+![Screenshot do app](https://github.com/JuniorSfredo/course-plataform-ui/raw/main/assets/screens/img.png)
+
 
