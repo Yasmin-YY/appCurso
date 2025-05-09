@@ -1,16 +1,16 @@
 <<<<<<< HEAD
-# Aplicativo de curso no flutter
+# Academia Digital
 
-A new Flutter project.
+Digital Academy é um aplicativo Flutter focado em educação tecnológica. Ele oferece uma jornada de boas-vindas moderna e interativa para novos usuários, com animações suaves, processo de introdução informativo e transições de tela perfeitas.
 
-## Getting Started
+## Recursos
 
-This project is a starting point for a Flutter application.
+Tela Inicial Nativa: Primeira tela exibida no Android/iOS com uma imagem personalizada
+Splash Animado com Lottie: Animação Flutter usando arquivos .json com efeitos visuais modernos
+Onboarding Interativo: Série de telas com imagens e textos explicativos sobre as funcionalidades do aplicativo
+Página de Boas-vindas: Transição final para uma tela animada que prepara o usuário para explorar o aplicativo
+Design Responsivo: Compatível com múltiplas resoluções de tela
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
