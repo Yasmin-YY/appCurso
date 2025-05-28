@@ -1,16 +1,23 @@
-# app_curso
+# My Finances
 
-A new Flutter project.
+Projeto desenvolvido para a materia de desenvolvimento mobile UTFPR CC2025/1
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+O Sistema de Controle de finanças é um aplicativo desenvolvido para ajudar na organização e controle de do seu financeiro diario. Ele permite cadastrar gastos e recebimentos com suas respectivas quantidades e descrições.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Controle de entradas e saidas financeiras
+- Pagina de Onboarding para guiar o usuario
+- Pagina de Login
+- Banco de dados para permanencia de informações
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias Utilizadas
+- Flutter
+
+
+## Integrantes
+  - Yasmim
+  - João
+  - Rodrigo Caio Koelln Alfonsin
