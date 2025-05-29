@@ -1,23 +1,50 @@
-# My Finances
+> Projeto desenvolvido para a disciplina de Desenvolvimento Mobile – UTFPR, CC 2025/1.
 
-Projeto desenvolvido para a materia de desenvolvimento mobile UTFPR CC2025/1
+## 📱 Funcionalidades
 
-## Descrição
+- ✅ Cadastro de gastos e recebimentos
+- ✅ Tela de onboarding para primeiros acessos
+- ✅ Tela de login
+- ✅ Banco de dados local para persistência
+- ✅ Interface intuitiva e responsiva
 
-O Sistema de Controle de finanças é um aplicativo desenvolvido para ajudar na organização e controle de do seu financeiro diario. Ele permite cadastrar gastos e recebimentos com suas respectivas quantidades e descrições.
+## 🛠️ Tecnologias Utilizadas
 
-## Funcionalidades
+- [Flutter](https://flutter.dev/)
+- Dart
+- SQLite (ou outro sistema de armazenamento, conforme implementação)
 
-- Controle de entradas e saidas financeiras
-- Pagina de Onboarding para guiar o usuario
-- Pagina de Login
-- Banco de dados para permanencia de informações
+## 📁 Estrutura do Projeto
 
-## Tecnologias Utilizadas
-- Flutter
+lib/
+├── main.dart # Ponto de entrada
+├── screens/ # Telas do aplicativo (onboarding, login, home, etc.)
+├── models/ # Modelos de dados
+├── services/ # Lógica de negócio e persistência
+├── widgets/ # Componentes reutilizáveis
 
 
-## Integrantes
-  - Yasmin Yamamoto
-  - João
-  - Rodrigo Caio Koelln Alfonsin
+## 🚀 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Yasmin-YY/appCurso.git
+   cd appCurso
+
+Instale as dependências:
+
+flutter pub get
+
+Execute o app:
+
+    flutter run
+
+    Certifique-se de ter o Flutter SDK instalado e configurado corretamente.
+
+👨‍💻 Integrantes
+
+    Yasmin Yamamoto
+
+    João
+
+    Rodrigo Caio Koelln Alfonsin
