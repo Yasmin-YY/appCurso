@@ -45,6 +45,6 @@ Execute o app:
 
     Yasmin Yamamoto
 
-    João
+    João Victor Pires Novaes
 
     Rodrigo Caio Koelln Alfonsin
